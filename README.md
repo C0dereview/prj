@@ -1,2 +1,2 @@
-# prj
-Projects maybe
+# projects
+Projects maybe.
